@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ranosys/Videos/AndroPaint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/ranosys/Videos/AndroPaint/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_a44a8361139ba71bf5ac26c50fd4e37fb3e37188.jar" />
+    </item>
+    <item
+        jar="/home/ranosys/Desktop/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/ranosys/Videos/AndroPaint/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_476656acbbe420ab270ecb7694990956e437b9b8.jar" />
+    </item>
+    <item
+        jar="/home/ranosys/Videos/AndroPaint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/ranosys/Videos/AndroPaint/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_b362f39c6b7f0a7bfa167fa1b8499e29807587ba.jar" />
+    </item>
+    <item
+        jar="/home/ranosys/Videos/AndroPaint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/ranosys/Videos/AndroPaint/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_f8db82961bf284302bd4c701db0d2e1c9d912f47.jar" />
+    </item>
+
+</items>

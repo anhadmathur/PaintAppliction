@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroPaint</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Draw Rect</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+    <string name="action_circle">Draw Circle</string>
+    <string name="action_oval">Draw Oval</string>
+    <string name="action_line">Draw Line</string>
+    <string name="action_text">Draw Text</string>
+    <string name="action_fill">Fill Area</string>
+    <string name="action_add_frame">Add Frame</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="andro_paint_asks">ANDROPAINT asks \n Do you Really Want to Exit ?</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+</resources>
